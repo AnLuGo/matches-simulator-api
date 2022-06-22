@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Brasil",
       "forca": "5",
-      "imagem": "https://www.todamateria.com.br/bandeira-do-brasil/"
+      "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg"
     },
     "visitante": {
       "nome": "Uruguay",
       "forca": "5",
-      "imagem": "https://pt.wikipedia.org/wiki/Bandeira_do_Uruguai"
+      "imagem": "https://www.cidademarketing.com.br/marketing/wp-content/uploads/2019/02/bandeira_uruguai.png"
     }
   }
 ]
