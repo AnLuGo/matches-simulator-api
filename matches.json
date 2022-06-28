@@ -3,7 +3,7 @@
     "descrição": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://wikibrasil.org/wp-content/uploads/2020/09/maracana-4k-match-estadio-jornalista-mario-filho-soccer.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,8 +19,8 @@
   {
     "descrição": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Estádio Centenário",
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
     },
     "mandante": {
       "nome": "Uruguay",
@@ -37,7 +37,7 @@
     "descrição": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://wikibrasil.org/wp-content/uploads/2020/09/maracana-4k-match-estadio-jornalista-mario-filho-soccer.jpg"
     },
     "mandante": {
       "nome": "Brasil",
